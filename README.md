@@ -25,5 +25,5 @@ Você também pode ver quaisquer erros de fiapos no console.
 - Realiza adição, substração , multiplicação, divisão
 - Realiza calculo de porcentagem
 - Inverte sinal do número
-- Em caso de erro, apaga os ultimos números até que fique um número 
+- Em caso de erro (adicionar número errado, apaga os números até que fique o último.
     no visor um número.
